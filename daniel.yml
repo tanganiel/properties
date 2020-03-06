@@ -3,6 +3,6 @@ spring:
     name: daniel
 page:
   youtube:
-    url: https://www.youtube.com
+    url: https://www.youtube.com/
   google:
     url: https://www.google.com
