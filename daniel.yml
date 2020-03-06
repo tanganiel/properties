@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: daniel
 page:
   youtube:
     url: https://www.youtube.com
