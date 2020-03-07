@@ -1,0 +1,35 @@
+####################################
+## Este es un ejemplo de regiones ##
+####################################
+
+regiones:
+  - nombre: Arica y Parinacota
+    ordinal: XV
+  - nombre: Tarapacá
+    ordinal: I
+  - nombre: Antofagasta
+    ordinal: II
+  - nombre: Atacama
+    ordinal: III
+  - nombre: Coquimbo
+    ordinal: IV
+  - nombre: Valparaiso
+    ordinal: V
+  - nombre: Metropolitana de Santiago
+    ordinal: RM
+  - nombre: Libertador General Bernardo O'Higgins
+    ordinal: VI
+  - nombre: Maule
+    ordinal: VII
+  - nombre: Biobío
+    ordinal: VIII
+  - nombre: La Araucanía
+    ordinal: IX
+  - nombre: Los Ríos
+    ordinal: XIV
+  - nombre: Los Lagos
+    ordinal: X
+  - nombre: Aisén del General Carlos Ibáñez del Campo
+    ordinal: XI
+  - nombre: Magallanes y de la Antártica Chilena
+    ordinal: XII
